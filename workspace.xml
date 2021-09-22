@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bdf7195-fbfc-4f85-af03-029c8b413ea0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>logi</find>
+      <find>color:white</find>
+      <find>color:LightCoral</find>
+      <find>class=&quot;navbar-brand&quot;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>color:LightCoral</replace>
+      <replace>color:darkslategrey</replace>
+      <replace>class=&quot;nav-link&quot;</replace>
+    </replaceStrings>
+  </component>
+  <component name="ProjectId" id="1cJOmbVEb3SYWMYX2nGtAtHqUwi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\Desktop\giftshop\shop" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\Desktop\giftshop\shop" />
+      <recent name="C:\Users\hp\Desktop\giftshop\giftshop\static\image" />
+      <recent name="C:\Users\hp\Desktop\giftshop\media" />
+      <recent name="C:\Users\hp\Desktop\giftshop\shop\templates" />
+      <recent name="C:\Users\hp\Desktop\giftshop\giftshop" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bdf7195-fbfc-4f85-af03-029c8b413ea0" name="Default Changelist" comment="" />
+      <created>1590243389990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590243389990</updated>
+    </task>
+    <servers />
+  </component>
+</project>
